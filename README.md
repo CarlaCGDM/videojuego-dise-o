@@ -3,7 +3,7 @@ Trabajo de la asignatura DIW
 
 ## Contenidos
 
-### - Ficheros por capas
+### - Ficheros originales por capas
 
 Ficheros originales editables en formato .afphoto y .afdesign.
 
