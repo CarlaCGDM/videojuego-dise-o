@@ -1,2 +1,2 @@
-# videojuego-dise-o
+# videojuego-diw
 Trabajo de la asignatura DIW
