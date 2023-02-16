@@ -22,6 +22,11 @@ Ficheros exportados en PNG para su uso en sitios web con la mínima pérdida de 
 Montaje de previsualización del resultado final (personaje sobre fondo) y de las distintas capas del fondo (foreground, middleground y background).
 
 ### Ficheros de audio
+
+Sonido ambiental de lluvia (original en .WAV, convertido a .aac y .mp3 128kbps para uso web).
+
+Música de fondo del nivel (original en .WAV, convertido a .aac y .mp3 128kbps para uso web).
+
 ### Ficheros de vídeo
 
 ## Créditos
@@ -42,4 +47,9 @@ Montaje de previsualización del resultado final (personaje sobre fondo) y de la
 
 ### Vídeo: 
 
+- https://www.pexels.com/es-es/video/cielo-nubes-tormenta-fondo-de-cielo-3842236/ (licencia de libre uso)
+
 ### Audio: 
+
+- https://void1gaming.itch.io/platformer-music-pack-lite (licencia de uso derivativo, prohibido vender el original)
+- https://freesound.org/people/straget/sounds/527674/ (licencia Creative Commons 4.0 de atribución)
