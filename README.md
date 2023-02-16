@@ -17,7 +17,7 @@ Personaje vectorial exportado en .SVG para poder trabajarlo con otros programas 
 
 ### - Ficheros PNG
 
-Ficheros exportados en PNG para su uso en sitios web con la mínima pérdida de calidad, en distintos tamaños (large, medium y small).
+Ficheros exportados en PNG para su uso en sitios web con la mínima pérdida de calidad, en distintos tamaños (large, medium y small) y con fondo transparente.
 
 Montaje de previsualización del resultado final (personaje sobre fondo) y de las distintas capas del fondo (foreground, middleground y background).
 
